@@ -1,20 +1,20 @@
-{
-  "name": "bakery",
-  "version": "1.0.0",
-  "main": "node_modules/expo/AppEntry.js",
-  "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web",
-    "eject": "expo eject"
-  },
-  "dependencies": {
-    "@expo/vector-icons": "^13.0.0",
+# Ecommerce React Native
+## Proyecto final del curso desarrollo de aplicaciones
+
+Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+AngularJS-powered HTML5 Markdown editor.
+
+- Utilice npm i para instalar las dependencias
+- Falta hacer el sdk (Tuve problemas al hacerlo)
+- ✨Me gustaria agregar  un mejor diseño  y personalizarlo mas
+
+## Dependencias
+
+
+    -"@expo/vector-icons": "^13.0.0",
     "@react-navigation/bottom-tabs": "^6.3.2",
     "@react-navigation/native": "^6.0.11",
-    "@react-navigation/native-stack": "^6.7.0",
-    "expo": "~45.0.0",
+    "@react-navigation/native-stack": "^6.7.0", 
     "expo-app-loading": "~2.0.0",
     "expo-file-system": "~14.0.0",
     "expo-font": "~10.1.0",
@@ -34,9 +34,5 @@
     "react-redux": "^8.0.2",
     "redux": "^4.2.0",
     "redux-thunk": "^2.4.1"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.12.9"
-  },
-  "private": true
-}
+ 
+
